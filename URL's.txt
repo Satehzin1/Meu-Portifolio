@@ -1,0 +1,12 @@
+Url (Dominio) Calculadora: 
+https://satehzin1.github.io/Calculadora/
+
+Url (Dominio) Pokedex: 
+https://satehzin1.github.io/pokedex/
+
+Url (Dominio) Relogio Digital:
+https://satehzin1.github.io/Relogio/
+
+Url (Dominio) Calculador Simples: 
+ https://satehzin1.github.io/Calculadora-Simples/
+
