@@ -83,7 +83,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #7a6b55;
   font-family: var(--heading-font);
 }
 
@@ -606,8 +606,8 @@ h6 {
 --------------------------------------------------------------*/
 section,
 .section {
-  color: var(--default-color);
-  background-color: var(--background-color);
+  color: #fff;
+  background-color: #282928;
   padding: 60px 0;
   scroll-margin-top: 80px;
   overflow: clip;
