@@ -568,7 +568,7 @@ h6 {
 
 .page-title:before {
   content: "";
-  background-color: color-mix(in srgb, var(--background-color), transparent 50%);
+  background-color: color-mix(in srgb, #ffffff, transparent 50%);
   position: absolute;
   inset: 0;
 }
@@ -1464,4 +1464,8 @@ section,
 
 #textinho{
   color: #282928;
+}
+
+#titulo-details{
+  color: #7a6b55;
 }
